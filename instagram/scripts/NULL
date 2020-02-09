@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:/xampp/htdocs/Instagram/scripts/login.py", line 66, in <module>
+    USERNAME, PASSWD = ReadCredentials('C:/xampp/htdocs/Instagram/instagram/data.txt')
+  File "C:/xampp/htdocs/Instagram/scripts/login.py", line 46, in ReadCredentials
+    with open(FILE,'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/xampp/htdocs/Instagram/instagram/data.txt'

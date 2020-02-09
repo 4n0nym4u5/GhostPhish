@@ -1,0 +1,6 @@
+C:\xampp\htdocs\Instagram\scripts\login.py:80: DeprecationWarning: use options instead of chrome_options
+  browser=webdriver.Chrome(executable_path='C:/chromedriver.exe',chrome_options=chrome_options)
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\Instagram\scripts\login.py", line 110, in <module>
+    fucking_the_script()
+NameError: name 'fucking_the_script' is not defined
