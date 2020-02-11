@@ -1,4 +1,3 @@
-#!"C:/Users/4N0NYM4U5/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.7"
 from selenium import webdriver
 from time import sleep
 import os
